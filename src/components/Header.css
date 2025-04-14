@@ -1,0 +1,15 @@
+.header {
+    margin-bottom: 30px;
+  }
+  
+  .header h1 {
+    color: #4e085f;
+    margin-bottom: 10px;
+  }
+  
+  .divider {
+    border: none;
+    height: 1px;
+    background-color: #eee;
+    margin: 20px 0;
+  }
