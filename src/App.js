@@ -17,7 +17,7 @@ function App() {
     setExpenses(expenses.filter(expense => expense.id !== id));
   };
 
-  // Fixed filter function with proper property names
+
   const filteredExpenses = expenses.filter(expense => {
     const searchLower = searchTerm.toLowerCase();
     return (
